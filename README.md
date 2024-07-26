@@ -59,5 +59,3 @@ O método `main` cria uma nova instância da classe `MochilaDoPedro`, iniciando 
 Ao executar o programa, o usuário será solicitado a informar a capacidade máxima de peso da mochila e o número de espaços disponíveis. Em seguida, o menu será exibido, permitindo ao usuário inserir itens, visualizar a mochila, encontrar o item mais pesado, ordenar a mochila, excluir itens ou sair do programa.
 
 ---
-
-Este programa é uma excelente ferramenta para aprender conceitos de manipulação de arrays, controle de fluxo e interação com o usuário em Java.
